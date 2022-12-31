@@ -24,7 +24,7 @@
             <div class="mx-auto max-w-screen-sm px-4">
                 {{-- Hero --}}
                 <section>
-                    <h1 class="text-2xl font-bold text-gray-900 lg:text-5xl">Svet moderného Laravelu</h1>
+                    <h1 class="text-[7vw] font-bold text-gray-900 sm:text-5xl">Svet moderného Laravelu</h1>
                     <p class="mt-4 text-lg leading-relaxed">Sme skupina vývojárov ktorým záleží na kvalite a efektivite. Tu zdieľame novinky, best practices a zaujímavosti z Laravelu.</p>
                     <div class="mt-8">
                         <a href="http://laraissance.slack.com" class="inline-flex gap-2 bg-gray-800 text-white text-sm font-bold rounded-full px-4 py-2.5">
