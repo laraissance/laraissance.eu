@@ -46,9 +46,9 @@
                     </div>
 
                     <div>
-                        <h2 class="font-bold text-gray-900">Kvalitný Laravel sa nepíše len v zahraničí</h2>
-                        <p class="mt-4 leading-8">Máš sa na čo tešiť. Postav si na začiatok napríklad mikroblog podľa Taylora Otwella. <a href="https://bootcamp.laravel.com" target="_blank" class="underline">Laravel Bootcamp</a> ťa prevedie celým procesom až po nasadenie do produkcie. Ak sa ti nechce čítať otvor Laracasts. Vzdelávacia video platforma kde sa dozvieš prakticky všetko. Začni free sériou <a href="https://laracasts.com/series/laravel-8-from-scratch" target="_blank" class="underline">Laravel 8 srom scratch</a>.</p>
-                        <p class="mt-4 leading-8">Pre slovenský / český obsah sa pozri na <a href="https://skillmea.sk/online-kurzy/webrebel-3-oop-a-laravel" target="_blank" class="underline">Skillmea</a>. Ak chceš ale zostať v obraze, najvýhodnejšie je sledovať dianie v zahraničí napríklad na <a href="https://laravel-news.com" target="_blank" class="underline">Laravel News</a>.</p>
+                        <h2 class="font-bold text-gray-900">Začínaš s Laravelom?</h2>
+                        <p class="mt-4 leading-8">Máš sa na čo tešiť. Postav si na začiatok napríklad mikroblog podľa Taylora Otwella. <a href="https://bootcamp.laravel.com" target="_blank" class="underline">Laravel Bootcamp</a> ťa prevedie celým procesom až po nasadenie do produkcie. Ak sa ti nechce čítať, otvor Laracasts. Vzdelávaciu video platforma kde sa dozvieš prakticky všetko. Začni free sériou <a href="https://laracasts.com/series/laravel-8-from-scratch" target="_blank" class="underline">Laravel 8 From Scratch</a>.</p>
+                        <p class="mt-4 leading-8">Pre slovenský / český obsah sa pozri na <a href="https://skillmea.sk/online-kurzy/webrebel-3-oop-a-laravel" target="_blank" class="underline">Skillmea</a>. Ak chceš ale zostať v obraze, najvýhodnejšie je sledovať dianie v zahraničí, napríklad na <a href="https://laravel-news.com" target="_blank" class="underline">Laravel&nbsp;News</a>.</p>
                     </div>
 
                     <div>
