@@ -1,0 +1,31 @@
+{
+  "resources/fonts/VisbyCF-Bold.eot": {
+    "file": "assets/VisbyCF-Bold-3c1a7b09.eot",
+    "src": "resources/fonts/VisbyCF-Bold.eot"
+  },
+  "resources/fonts/VisbyCF-Medium.eot": {
+    "file": "assets/VisbyCF-Medium-2bb4f8cd.eot",
+    "src": "resources/fonts/VisbyCF-Medium.eot"
+  },
+  "resources/fonts/VisbyCF-Bold.woff2": {
+    "file": "assets/VisbyCF-Bold-9fbfe2de.woff2",
+    "src": "resources/fonts/VisbyCF-Bold.woff2"
+  },
+  "resources/fonts/VisbyCF-Medium.woff2": {
+    "file": "assets/VisbyCF-Medium-72adcdde.woff2",
+    "src": "resources/fonts/VisbyCF-Medium.woff2"
+  },
+  "resources/fonts/VisbyCF-Bold.woff": {
+    "file": "assets/VisbyCF-Bold-6f59019a.woff",
+    "src": "resources/fonts/VisbyCF-Bold.woff"
+  },
+  "resources/fonts/VisbyCF-Medium.woff": {
+    "file": "assets/VisbyCF-Medium-a4dbc370.woff",
+    "src": "resources/fonts/VisbyCF-Medium.woff"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-d89e11b2.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  }
+}
