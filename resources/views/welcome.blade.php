@@ -27,7 +27,7 @@
                     <h1 class="text-[7vw] font-bold text-gray-900 sm:text-5xl">Svet moderného Laravelu</h1>
                     <p class="mt-4 text-lg leading-relaxed">Sme skupina vývojárov ktorým záleží na kvalite a efektivite. Tu zdieľame novinky, best practices a zaujímavosti z Laravelu.</p>
                     <div class="mt-8">
-                        <a href="http://laraissance.slack.com" class="inline-flex gap-2 bg-gray-800 text-white text-sm font-bold rounded-full px-4 py-2.5">
+                        <a href="https://join.slack.com/t/laraissance/shared_invite/zt-1mfyh8gkh-Epil1SJsaAfbAFj~s5AcMw" class="inline-flex gap-2 bg-gray-800 text-white text-sm font-bold rounded-full px-4 py-2.5">
                             <img src="{{ asset('img/slack_logo.svg') }}"><span>Pridaj sa na slack</span>
                         </a>
                     </div>
@@ -54,7 +54,7 @@
                     <div>
                         <h2 class="font-bold text-gray-900">Nezabudni sa pridať do komunity</h2>
                         <div class="mt-8 flex flex-wrap gap-4">
-                            <a href="http://laraissance.slack.com" class="flex-shrink-0 inline-flex gap-2 bg-gray-800 text-white text-sm font-bold rounded-full px-4 py-2.5">
+                            <a href="https://join.slack.com/t/laraissance/shared_invite/zt-1mfyh8gkh-Epil1SJsaAfbAFj~s5AcMw" class="flex-shrink-0 inline-flex gap-2 bg-gray-800 text-white text-sm font-bold rounded-full px-4 py-2.5">
                                 <img src="{{ asset('img/slack_logo.svg') }}"><span>Pridaj sa na slack</span>
                             </a>
 
