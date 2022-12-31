@@ -16,7 +16,7 @@
     <body class="antialiased text-gray-700">
         <header class="pt-12">
             <div class="mx-auto max-w-screen-sm px-4">
-                <img class="h-9 lg:h-12" src="{{ asset('img/logotype.svg') }}" alt="Laraisssance logotyp">
+                <img class="h-12" src="{{ asset('img/logotype.svg') }}" alt="Laraisssance logotyp">
             </div>
         </header>
 
