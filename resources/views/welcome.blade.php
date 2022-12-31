@@ -58,7 +58,7 @@
                                 <img src="{{ asset('img/slack_logo.svg') }}"><span>Pridaj sa na slack</span>
                             </a>
 
-                            <a href="http://laraissance.slack.com" class="flex-shrink-0 inline-flex gap-2 bg-[#1D9BF0] text-white text-sm font-bold rounded-full px-4 py-2.5">
+                            <a href="https://twitter.com/laraissance" class="flex-shrink-0 inline-flex gap-2 bg-[#1D9BF0] text-white text-sm font-bold rounded-full px-4 py-2.5">
                                 <img src="{{ asset('img/twitter_logo.svg') }}"><span>Sleduj na twitteri</span>
                             </a>
                         </div>
